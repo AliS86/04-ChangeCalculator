@@ -1,0 +1,34 @@
+/*control the entire body*/
+
+body {
+    text-align: center;
+    background-color: pink;
+}
+
+
+/*control the table*/
+
+table.center {
+    margin: auto auto auto 5%;
+}
+
+
+/*control the dollar image*/
+
+.dol {
+    max-width: 15%;
+}
+
+
+/*control the coin image*/
+
+.img-circle {
+    max-width: 10%;
+}
+
+
+/*control my button*/
+
+#myButton {
+    margin: 5%;
+}
